@@ -28,3 +28,4 @@ When you use ./-file01, you are changing the "name" the computer sees.
 - grep = grep searches for a specific string of text (a "pattern") inside a file or multiple files. It’s like using Ctrl + F, but much faster and more powerful.
 Basic Search: grep millionth data.txt(Finds every line in data.txt that contains the word "millionth")
   
+ icalcsC:TestLock /deny fortn:F= This is for an user to not give access to a folder only the admin has the right to Access.
