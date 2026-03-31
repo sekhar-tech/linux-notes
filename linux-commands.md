@@ -27,5 +27,4 @@ When you use ./-file01, you are changing the "name" the computer sees.
 - 2>/dev/null = in the real world, if you are looking for a log file on a server with 1000000 files, your terminal will be flooded with”Permission denied” because you don’t have access to the private folders of other users . Without this trick, finding the 
 - grep = grep searches for a specific string of text (a "pattern") inside a file or multiple files. It’s like using Ctrl + F, but much faster and more powerful.
 Basic Search: grep millionth data.txt(Finds every line in data.txt that contains the word "millionth")
-  
- icalcsC:TestLock /deny fortn:F= This is for an user to not give access to a folder only the admin has the right to Access.
+  * ./icalcsC:TestLock /deny fortn:F= This is for an user to not give access to a folder only the admin has the right to Access.
